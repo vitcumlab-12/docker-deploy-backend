@@ -13,5 +13,5 @@ public class Lab10Application {
         SpringApplication.run(Lab10Application.class, args);
     }
 
-
+// Triggering DeepSource scan
 }
